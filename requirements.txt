@@ -5,4 +5,5 @@
 #-e .
 #scikit-learn
 #catboost
-xgboost
+#xgboost
+dill
